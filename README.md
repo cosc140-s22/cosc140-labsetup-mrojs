@@ -14,5 +14,5 @@ One thing that has surprised me in Cardiff is the general structure of the unive
 
 ## Feedback
 
-Once you commit and push your work to Github, I'll update this section with feedback.
+The academic difference is definitely quite interesting, and I'm glad it's refreshing to you!
 
